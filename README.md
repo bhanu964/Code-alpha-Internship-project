@@ -49,4 +49,4 @@ jupyter notebook notebooks/credit_model.ipynb
 ```
 
 ## 📬 Contact
-Made with ❤️ by [Your Name](https://github.com/your-username)
+Made with ❤️ by Bhanu prasad (https://github.com/bhanu964)
